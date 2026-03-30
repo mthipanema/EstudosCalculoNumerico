@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+#include "Metodos CN Integral.c"
 
 // f(x) = x^2 - 4x - 9
 double f(double x) {
